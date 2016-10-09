@@ -1,0 +1,14 @@
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe.config
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.g.cs
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.cache
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans_MarkupCompile.lref
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\MainWindow.baml
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.g.resources
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save_the_Humans.Properties.Resources.resources
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.csproj.GenerateResource.Cache
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+F:\Visual Studio 2015 Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
